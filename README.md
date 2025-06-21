@@ -54,7 +54,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Parul**  
-📧 thisisparulsingh@gmail.com
+📧 check.tushar03@gmail.com
 
 ---
 
